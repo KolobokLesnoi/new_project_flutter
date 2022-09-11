@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056514717932",
+    "firebase_url": "https://swipe-fb74e-default-rtdb.firebaseio.com",
+    "project_id": "swipe-fb74e",
+    "storage_bucket": "swipe-fb74e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056514717932:android:1272fe6c471a8ac2904dc9",
+        "android_client_info": {
+          "package_name": "com.example.dart.new_project_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056514717932-kd6o610hc94is4afsev7u590ifn3k9cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYVfMA-qULT-i_DxIvheIk4LuqmUjqqE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056514717932-kd6o610hc94is4afsev7u590ifn3k9cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
